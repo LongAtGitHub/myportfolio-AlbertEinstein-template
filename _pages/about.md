@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#https://www.macalester.edu'>Macalester College</a> | Grand Avenue, Saint Pau, MN | ltruong@macalster.edu
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo_portfolio.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1600 Grand Avenue</p>
     <p>Saint Paul, MN</p>
 
 news: true # includes a list of news items
