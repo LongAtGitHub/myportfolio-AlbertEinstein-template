@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#https://www.macalester.edu'>CS & Maths @ Macalester College</a> | Grand Avenue, Saint Paul, MN | ltruong@macalster.edu
 

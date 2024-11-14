@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Revestify – Church Donation Platform
+title: Revestify 
 description: Full Stack Software Engineer
 img: assets/img/12.jpg
 importance: 1
