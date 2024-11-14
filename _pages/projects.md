@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Check out my cool projects
+description: Please check out my following cool projects! 🚀
 nav: true
 nav_order: 3
-display_categories: [work, class projects]
+display_categories: [Software Engineer, Class Projects]
 horizontal: false
 ---
 

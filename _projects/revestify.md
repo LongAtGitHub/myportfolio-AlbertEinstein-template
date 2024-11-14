@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Revestify 
-description: Full Stack Software Engineer
+description: Streamlining Frontend Logic, Backend Infrastructure, Mobile App Builds, API Testing with Postman, and Database Management with MongoDB—covering a lot from all angles!
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Software Engineer
 related_publications: false
 ---
 
