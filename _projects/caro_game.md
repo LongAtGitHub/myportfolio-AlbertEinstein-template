@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 6
-description: a project with no image
+description: AI-Powered Strategy Game with Minimax Algorithm in Java
 img:
 importance: 4
 category: class projects
