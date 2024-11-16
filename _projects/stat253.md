@@ -1,9 +1,0 @@
----
-layout: page
-title: Machine Learning Methods for Shopping Item Relationships
-description: Predictive Modeling in Consumer Goods: Applying Lasso and Machine Learning to Explore the Relationship Between Fat and Non-Fat Content in Products
-img: assets/img/3.jpg
-importance: 2
-category: Class Projects
-giscus_comments: true
---
