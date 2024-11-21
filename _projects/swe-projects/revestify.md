@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Revestify 
-description: Streamlining Frontend Logic, Backend Infrastructure, Mobile App Builds, API Testing with Postman, and Database Management with MongoDB—covering a lot from all angles!
+description: Streamlining Frontend Logic, Backend Infrastructure, Mobile App Builds, API Testing with Postman, etc
 img: assets/img/12.jpg
 importance: 1
 category: Software Engineer
